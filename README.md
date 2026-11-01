@@ -31,13 +31,13 @@ I'll document what I build, how it works, and what I learn behind the code. I'll
 
 ## 📈 Progress
 
-- [✅] Project idea selected
-- [ ] Features planned
-- [ ] Technology stack selected
-- [ ] UI Development
-- [ ] Backend Development
-- [ ] Real-Time Communication
-- [ ] Testing & Deployment
+- ✅ Project idea selected
+- ✅ Features planned
+- ❎ Technology stack selected
+- ❎ UI Development
+- ❎ Backend Development
+- ❎ Real-Time Communication
+- ❎ Testing & Deployment
 
 ## 🎯 Challenge Details
 
