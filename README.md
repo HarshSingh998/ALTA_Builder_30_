@@ -53,8 +53,10 @@ I'll document what I build, how it works, and what I learn behind the code. I'll
 *Building something real, one step at a time.* 🚀
 
 
-🔗 Connect With Me
+🔗 Connect With Me :
+
 GitHub: [HarshSingh998](https://github.com/HarshSingh998)
+
 LinkedIn: [ Harsh Singh ](https://www.linkedin.com/in/harsh-----singh/)
 
 #ALTABuilder30
