@@ -1,63 +1,60 @@
 # 🚀 ALTA BUILDER 30
 
-### 30 Days • One Project • Endless Learning
+## 💬 Real-Time Chat App
 
-I've accepted the **ALTA BUILDER 30** challenge by Team ALTA, starting on **1st November 2026**.
+### ALTA BUILDER 30 🚀 | 30 Days • One Project
 
-The goal is simple: build at least one complete project in 30 days while learning new technologies, improving development skills, and gaining practical experience.
+A real-time chat application where users can sign up, join rooms, and communicate instantly without refreshing the page.
 
-## 🎯 My Goal
+Building this project as part of the **ALTA BUILDER 30** challenge to learn Full-Stack Development through practical experience.
 
-- Complete at least **one project** in 30 days.
-- Learn by building real-world applications.
-- Improve my Full-Stack Development skills.
-- Explore AI/ML development.
-- Push code and progress to GitHub regularly.
-- Share my learning journey on LinkedIn.
+## ✨ Planned Features
 
-## 🗺️ Challenge Roadmap
+- User Signup & Login
+- Create and Join Chat Rooms
+- Real-Time Messaging
+- Message History
+- Online Users List
+- Typing Indicator
+- User Profile with Avatar
 
-### Track A — Full-Stack Development
-**Days 01–15**
+## 🛠️ Tech Stack
 
-Focus on learning and building a Full-Stack application.
+- **Frontend:** React.js
+- **Backend:** Node.js & Express.js
+- **Real-Time:** Socket.io
+- **Database:** MongoDB
 
-### Track B — AI/ML Development
-**Days 16–30**
+## 🧠 What I Built and What I Understood
 
-Explore AI/ML concepts and understand how they can be used in practical applications.
+I'll document what I build, how it works, and what I learn behind the code. I'll also mention where AI tools helped and how I understood and tested their suggestions.
 
-## 📅 Challenge Progress
+## 📈 Progress
 
-| Day | Progress |
-|:---:|---|
-| 01 | Getting started |
-| 02–30 | Coming soon |
+- [ ] Project idea selected
+- [ ] Features planned
+- [ ] Technology stack selected
+- [ ] UI Development
+- [ ] Backend Development
+- [ ] Real-Time Communication
+- [ ] Testing & Deployment
 
-**Status:** 🟡 In Progress
+## 🎯 Challenge Details
 
-## 🛠️ Technologies
-
-Technologies will be updated as I learn and use them during the challenge.
-
-## 💡 What I Expect to Learn
-
-- Project planning and development
-- Frontend and backend fundamentals
-- Working with APIs and databases
-- Debugging and problem-solving
-- Git and GitHub workflow
-- Practical application development
-
-## 🔗 Connect & Follow My Journey
-
-- **GitHub:** [HarshSingh998](https://github.com/HarshSingh998)
-- **LinkedIn:** Follow my progress using [#ALTABuilder30](https://www.linkedin.com/search/results/all/?keywords=%23ALTABuilder30)
+- **Challenge:** ALTA BUILDER 30
+- **Duration:** 30 Days
+- **Start Date:** 1 November 2026
+- **Goal:** Complete One Project
 
 ---
 
-**Learn → Build → Experiment → Improve**
+**Learn → Build → Understand → Improve**
 
-*One project. Thirty days. A better developer.*
+*Building something real, one step at a time.* 🚀
 
-#ALTABuilder30 #ALTA #BuildInPublic
+
+🔗 Connect With Me
+GitHub: [HarshSingh998](https://github.com/HarshSingh998)
+LinkedIn: [ Harsh Singh ](https://www.linkedin.com/in/harsh-----singh/)
+
+#ALTABuilder30
